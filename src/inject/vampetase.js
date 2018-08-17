@@ -6,13 +6,15 @@
             'https://i.imgur.com/Q8DAMbG.jpeg',
             'https://i.imgur.com/CEXGnb1.jpeg',
             'https://i.imgur.com/sEfTW2T.jpeg',
-            'https://i.imgur.com/BYSigRR.jpeg',
             'https://i.imgur.com/1GFdTtE.jpeg',
             'https://i.imgur.com/dHBJLSq.jpeg',
             'https://i.imgur.com/bImMVB8.jpeg',
             'https://i.imgur.com/7w1koGx.jpeg',
             'https://i.imgur.com/Xpza25z.jpeg',
             'https://i.imgur.com/JWTlHal.jpeg',
+            'https://i.imgur.com/Z0bWp5x.jpeg',
+            'https://i.imgur.com/Ha7roTe.jpeg',
+            'https://i.imgur.com/KnGwtdP.jpeg',
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
