@@ -3,6 +3,14 @@
 
     var self = {
         vampetaseImg: [
+            'https://i.imgur.com/exTdp7n.jpeg',
+            'https://i.imgur.com/1bbnZ7g.jpeg',
+            'https://i.imgur.com/LnNbmtG.jpeg',
+            'https://i.imgur.com/8Vh2q2P.jpeg',
+            'https://i.imgur.com/YoojauM.jpeg',
+            'https://i.imgur.com/tnZRfoD.jpeg',
+            'https://i.imgur.com/tSmNn5f.jpeg',
+            'https://i.imgur.com/79IRSYI.jpeg',
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
